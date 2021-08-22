@@ -1,7 +1,3 @@
-module github.com/sonntuet1997/medical-chain-utils
+module github.com/aquarius6666/medical-chain-utils
 
 go 1.16
-
-require (
-
-)

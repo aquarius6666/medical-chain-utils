@@ -11,3 +11,6 @@ type ModelBase struct {
 type Model interface {
 	GetName() string
 }
+
+type Test struct {
+}
